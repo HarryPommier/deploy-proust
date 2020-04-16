@@ -1,0 +1,11 @@
+#Byte-compiled
+__pycache__/
+
+# Environnement
+venv/
+
+# Model
+saved_model/model_proust_generator/
+
+# Pycharm
+.idea/
